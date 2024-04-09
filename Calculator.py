@@ -10,8 +10,6 @@ LIGHT_BLUE = "#CDEDFF"
 LIGHT_GRAY = "#F5F5F5"
 LABEL_COLOR = "#25265E"
 
-
-
 class Calculator:
     def __init__(self):
         self.window = tk.Tk()
